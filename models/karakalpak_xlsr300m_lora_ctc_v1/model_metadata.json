@@ -1,0 +1,11 @@
+{
+    "base_model": "facebook/wav2vec2-xls-r-300m",
+    "checkpoint_step": 13023,
+    "vocab_size": 36,
+    "lora_rank": 8,
+    "lora_alpha": 16,
+    "validation_wer_greedy": 50.0032,
+    "validation_cer_greedy": 11.5323,
+    "validation_wer_kenlm": 27.0632,
+    "validation_cer_kenlm": 10.0256
+}

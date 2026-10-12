@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Datasets
+*.parquet
+*.wav
+*.mp3
+data/
+datasets/
+
+# Model weights and checkpoints
+checkpoint-*/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+logs/
+runs/
+wandb/
+trainer_state.json
+
+# Intermediate experiments
+experiments/
+
+# KenLM generated files and source repository
+kenlm/kenlm_source/
+kenlm/*.arpa
+kenlm/*.binary
+kenlm/karakalpak_train.txt
+
+# Audio shards
+audio_shards/
+
+# Jupyter notebook outputs
+.ipynb_checkpoints/
+EOFcd ~/projects/karakalpak_stt
+
+cat >> .gitignore <<'EOF'
+
+# Intermediate experiments
+experiments/
+
+# KenLM generated files and source repository
+kenlm/kenlm_source/
+kenlm/*.arpa
+kenlm/*.binary
+kenlm/karakalpak_train.txt
+
+# Audio shards
+audio_shards/
+
+# Jupyter notebook outputs
+.ipynb_checkpoints/
+EOFcd ~/projects/karakalpak_stt
+
+cat >> .gitignore <<'EOF'
+
+# Intermediate experiments
+experiments/
+
+# KenLM generated files and source repository
+kenlm/kenlm_source/
+kenlm/*.arpa
+kenlm/*.binary
+kenlm/karakalpak_train.txt
+
+# Audio shards
+audio_shards/
+
+# Jupyter notebook outputs
+.ipynb_checkpoints/
