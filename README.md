@@ -60,8 +60,8 @@ Initial evaluation results:
 
 | Metric | Score |
 |--------|-------|
-| Word Error Rate (WER) | 27% |
-| Character Error Rate (CER) | 10% |
+| Word Error Rate (WER) | 21% |
+| Character Error Rate (CER) | 7% |
 
 These are approximate results from the initial experiment.
 
