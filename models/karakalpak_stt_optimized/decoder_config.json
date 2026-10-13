@@ -1,0 +1,9 @@
+{
+    "base_model": "facebook/wav2vec2-xls-r-300m",
+    "alpha": 0.65,
+    "beta": 1.5,
+    "beam_width": 200,
+    "sample_rate": 16000,
+    "test_wer": 21.5938,
+    "test_cer": 7.789
+}
