@@ -1,0 +1,22 @@
+{
+  "model": "facebook/wav2vec2-xls-r-300m",
+  "fine_tuning": "LoRA + CTC",
+  "language_model": "Karakalpak 5-gram KenLM",
+  "language_model_path": "/home/intern/projects/karakalpak_stt/kenlm/karakalpak_5gram.binary",
+  "vocabulary_size": 36,
+  "beam_width": 10,
+  "selected_by": "validation_WER",
+  "best_wer_config": {
+    "alpha": 0.5,
+    "beta": 1.0,
+    "validation_wer": 27.0632,
+    "validation_cer": 10.0256
+  },
+  "best_cer_config": {
+    "alpha": 0.2,
+    "beta": 0.0,
+    "validation_wer": 27.7482,
+    "validation_cer": 9.1317
+  },
+  "validation_samples": 965
+}

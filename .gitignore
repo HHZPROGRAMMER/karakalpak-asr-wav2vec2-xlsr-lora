@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Datasets
+*.parquet
+*.wav
+*.mp3
+data/
+datasets/
+audio_shards/
+
+# Model weights and checkpoints
+checkpoint-*/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+logs/
+runs/
+wandb/
+trainer_state.json
+
+# Intermediate experiments
+experiments/
+
+# KenLM
+kenlm/kenlm_source/
+kenlm/*.arpa
+kenlm/*.binary
+kenlm/karakalpak_train.txt
+
+# Backup archives
+*.zip
+# Backups
+*.zip
+
+# Datasets
+*.parquet
+*.wav
+*.mp3
+
+# Model checkpoints
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Generated results
+results/validation_logits/
