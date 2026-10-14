@@ -1,0 +1,2 @@
+checkpoint,dataset,samples,greedy_wer,greedy_cer,evaluation_seconds
+8500,Mendeley,1618,59.831407819967644,13.409961685823754,157.39726209640503
