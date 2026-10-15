@@ -1,0 +1,32 @@
+{
+  "source": "external_validation/Benchmark/karakalpak_hf_dataset/benchmark_all_samples.csv",
+  "output": "external_validation/Benchmark/karakalpak_hf_dataset/benchmark_standardized_samples.csv",
+  "source_text_column": "text",
+  "editorial_text_column": "standardized_text",
+  "records": 2613,
+  "adapted_rows": 74,
+  "word_or_boundary_replacements": 76,
+  "rules_with_matches": 38,
+  "replacement_kinds": {
+    "word_boundary": 22,
+    "contextual_typo": 6,
+    "editorial_variant": 38,
+    "literary_spelling": 10
+  },
+  "review_status_flags": {},
+  "unresolved_review_rows": null,
+  "original_reference_files_modified": 0,
+  "audio_files_modified": 0,
+  "audio_alignment_verified": false,
+  "use_standardized_text_for_asr_scoring": false,
+  "source_sha256": "eec33d357acf8a3e44f8f53ed96bc603ffc780e6f741f2389b7b7247870660d9",
+  "output_sha256": "832a754f3b7d0fe9ed8152dfc0db18a9491196a985632a2215a0790f0c1a7dd7",
+  "rules_sha256": "38e09b9c3921e683d39d52d85de8f9f72df90c518886a036fe813a0c6dd83cc0",
+  "protected_source_hashes": {
+    "external_validation/Benchmark/karakalpak_hf_dataset/benchmark_all_samples.csv": "eec33d357acf8a3e44f8f53ed96bc603ffc780e6f741f2389b7b7247870660d9"
+  },
+  "sources": {
+    "orthography_dictionary_2020": "https://elibrary.karsu.uz/wp-content/uploads/2023/06/M.Dawletov-Qaraqalpaq-tilinin-orfografiyaliq-sozligi.2020-1.pdf",
+    "orthography_dictionary_2017": "https://n.ziyouz.com/library/category/177-qaraqalpaq-tili-sozlikleri?download=12724:qaraqalpaq-tilinin-imla-sozligi-m-dawletov-2017"
+  }
+}

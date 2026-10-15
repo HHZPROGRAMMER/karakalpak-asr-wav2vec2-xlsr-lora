@@ -1,0 +1,415 @@
+{
+  "policy": "Faqat ro‘yxatdagi aniq yozuv tuzatishlari. Audio eshitib tasdiqlangan degani emas. Barcha i/ı, g/ǵ, k/q harflarini umumiy almashtirish taqiqlanadi.",
+  "sources": {
+    "2016_alphabet": "https://joqargikenes.uz/qr/documents/40/",
+    "imla_dictionary_2017": "https://n.ziyouz.com/library/category/177-qaraqalpaq-tili-sozlikleri?download=12724:qaraqalpaq-tilinin-imla-sozligi-m-dawletov-2017"
+  },
+  "rules": [
+    {
+      "old": "aldırgan",
+      "new": "aldırǵan",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "avtobuslarga",
+      "new": "avtobuslarǵa",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "basıwga",
+      "new": "basıwǵa",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "dúnyaga",
+      "new": "dúnyaǵa",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "hayalga",
+      "new": "hayalǵa",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qaplawga",
+      "new": "qaplawǵa",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "arqasındagı",
+      "new": "arqasındaǵı",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "ham",
+      "new": "hám",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "hammeniń",
+      "new": "hámmeniń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "balkim",
+      "new": "bálkim",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "dalil",
+      "new": "dálil",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "íqlasbend",
+      "new": "ıqlasbend",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "betimnin",
+      "new": "betimniń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "dalańlıqtın",
+      "new": "dalańlıqtıń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "joldın",
+      "new": "joldıń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qustın",
+      "new": "qustıń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "bunın",
+      "new": "bunıń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "emessen",
+      "new": "emesseń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "óńiriniz",
+      "new": "óńirińiz",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "jaǵıska",
+      "new": "jaǵısqa",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "karaǵanda",
+      "new": "qaraǵanda",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "kayaqtan",
+      "new": "qayaqtan",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "kayta",
+      "new": "qayta",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qarabaraklardıń",
+      "new": "qarabaraqlardıń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qatkan",
+      "new": "qatqan",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qaynatkan",
+      "new": "qaynatqan",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qaytkan",
+      "new": "qaytqan",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qushaklasıp",
+      "new": "qushaqlasıp",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "bóleǵin",
+      "new": "bólegin",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "óǵiz",
+      "new": "ógiz",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "júrttıń",
+      "new": "jurttıń",
+      "reason": "Qoraqalpoq harfi yoki qo‘shimchasidagi yozuv xatosi; butun so‘z bo‘yicha tuzatish.",
+      "evidence": "2016_alphabet_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "waqıttta",
+      "new": "waqıtta",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "planatasın",
+      "new": "planetasın",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qamasırarlıq",
+      "new": "qamastırarlıq",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qaynaytuǵıp",
+      "new": "qaynaytuǵın",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qaytadap",
+      "new": "qaytadan",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qaytaldan",
+      "new": "qaytadan",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "shekesinep",
+      "new": "shekesinen",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "tamaǵınap",
+      "new": "tamaǵınan",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "áleqashan",
+      "new": "álleqashan",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "úyregen",
+      "new": "úyrengen",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "qáleginińshe",
+      "new": "qálegenińshe",
+      "reason": "Gap kontekstida aniq ortiqcha, tushib qolgan yoki almashgan harf.",
+      "evidence": "context_review",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "ruxsat",
+      "new": "ruqsat",
+      "reason": "Imlo lug‘atidagi asosga mos yozuv: ruqsat / ruwx.",
+      "evidence": "imla_dictionary_2017_p232_233",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "ruwhın",
+      "new": "ruwxın",
+      "reason": "Imlo lug‘atidagi asosga mos yozuv: ruqsat / ruwx.",
+      "evidence": "imla_dictionary_2017_p232_233",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "ruwhlandırıp",
+      "new": "ruwxlandırıp",
+      "reason": "Imlo lug‘atidagi asosga mos yozuv: ruqsat / ruwx.",
+      "evidence": "imla_dictionary_2017_p232_233",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "emespe",
+      "new": "emes pe",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "bolama",
+      "new": "bola ma",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "bolarma",
+      "new": "bolar ma",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "joqpa",
+      "new": "joq pa",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "kórdińizbe",
+      "new": "kórdińiz be",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "bilerme",
+      "new": "biler me",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "ótkererme",
+      "new": "ótkerer me",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "kiripte",
+      "new": "kirip te",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "kóligide",
+      "new": "kóligi de",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "elede",
+      "new": "ele de",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "etsede",
+      "new": "etse de",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "bolsada",
+      "new": "bolsa da",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    },
+    {
+      "old": "óskeneken",
+      "new": "ósken eken",
+      "reason": "Alohida yoziladigan yuklama yoki yordamchi so‘z; shu gapdagi vazifasi tekshirildi.",
+      "evidence": "imla_rules_2017_section61_and_context",
+      "review": "orthography_only_not_audio_verified"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "policy": "Bu muharrirlik/adabiylashtirish varianti, eshitib tasdiqlangan transkripsiya emas. Faqat yangi standardized_text ustuniga qo‘llanadi. Asl text baholash ustuni saqlanadi.",
+  "sources": {
+    "orthography_dictionary_2020": "https://elibrary.karsu.uz/wp-content/uploads/2023/06/M.Dawletov-Qaraqalpaq-tilinin-orfografiyaliq-sozligi.2020-1.pdf",
+    "orthography_dictionary_2017": "https://n.ziyouz.com/library/category/177-qaraqalpaq-tili-sozlikleri?download=12724:qaraqalpaq-tilinin-imla-sozligi-m-dawletov-2017"
+  },
+  "protected_terms": {
+    "bermaǵan": {
+      "reason": "Lug‘atda bor; uni xato deb beri bilan global almashtirish mumkin emas.",
+      "source": "orthography_dictionary_2020",
+      "pdf_page": 68
+    },
+    "birgelki": {
+      "reason": "Lug‘atda bor; bitta harf o‘xshashligi xatoni isbotlamaydi.",
+      "source": "orthography_dictionary_2020",
+      "pdf_page": 73
+    },
+    "lekin": {
+      "reason": "Lug‘atda ham bor. Biraq faqat yangi adabiy variantdagi uslub tanlovi.",
+      "source": "orthography_dictionary_2020",
+      "pdf_page": 290
+    },
+    "yaki": {
+      "reason": "Lug‘atning izohida qo‘llangan. Yamasa faqat yangi adabiy variantdagi uslub tanlovi.",
+      "source": "orthography_dictionary_2020",
+      "pdf_page": 7
+    },
+    "gúrsińdi": {
+      "reason": "Shaxs/obyekt qo‘shimchasi bo‘lishi mumkin; gúrsindi bilan almashtirilmadi."
+    }
+  },
+  "rules": [
+    {
+      "old": "lekin",
+      "new": "biraq",
+      "kind": "editorial_variant",
+      "reason": "Foydalanuvchi so‘ragan qoraqalpoqcha adabiy uslub varianti; asl so‘z xato degani emas."
+    },
+    {
+      "old": "yaki",
+      "new": "yamasa",
+      "kind": "editorial_variant",
+      "reason": "Foydalanuvchi so‘ragan qoraqalpoqcha adabiy uslub varianti; asl so‘z xato degani emas."
+    },
+    {
+      "old": "yaqshı",
+      "new": "jaqsı",
+      "kind": "editorial_variant",
+      "reason": "Foydalanuvchi so‘ragan qoraqalpoqcha adabiy uslub varianti; asl so‘z xato degani emas."
+    },
+    {
+      "old": "abıroyı",
+      "new": "abırayı",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "awmastıratuǵın",
+      "new": "almastıratuǵın",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "baydalımızǵa",
+      "new": "paydamızǵa",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "ekewmiz",
+      "new": "ekewimiz",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "ánekeey",
+      "new": "ánekey",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "baratıranday",
+      "new": "baratırǵanday",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "ǵóne",
+      "new": "góne",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "darxal",
+      "new": "dárhal",
+      "kind": "literary_spelling",
+      "reason": "Kontekst bo‘yicha adabiy yozuvga yaqinlashtirish; audio orqali tasdiqlanmagan."
+    },
+    {
+      "old": "balasıp",
+      "new": "balasın",
+      "kind": "contextual_typo",
+      "reason": "Gapdagi qo‘shimcha va vazifaga qarab taxmin qilingan harf tuzatishi; transcriptga avtomatik o‘tkazilmaydi."
+    },
+    {
+      "old": "kelgenide",
+      "new": "kelgeninde",
+      "kind": "contextual_typo",
+      "reason": "Gapdagi qo‘shimcha va vazifaga qarab taxmin qilingan harf tuzatishi; transcriptga avtomatik o‘tkazilmaydi."
+    },
+    {
+      "old": "berjaǵıp",
+      "new": "berjaǵın",
+      "kind": "contextual_typo",
+      "reason": "Gapdagi qo‘shimcha va vazifaga qarab taxmin qilingan harf tuzatishi; transcriptga avtomatik o‘tkazilmaydi."
+    },
+    {
+      "old": "bujaǵıp",
+      "new": "bujaǵın",
+      "kind": "contextual_typo",
+      "reason": "Gapdagi qo‘shimcha va vazifaga qarab taxmin qilingan harf tuzatishi; transcriptga avtomatik o‘tkazilmaydi."
+    },
+    {
+      "old": "alagór",
+      "new": "ala gór",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "alaǵoydım",
+      "new": "ala ǵoydım",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "bolaǵoyadı",
+      "new": "bola ǵoyadı",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "qoyaǵoy",
+      "new": "qoya ǵoy",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "tabaǵoysam",
+      "new": "taba ǵoysam",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "uslataǵoyayın",
+      "new": "uslata ǵoyayın",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "óleǵoymaq",
+      "new": "óle ǵoymaq",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "qoyaber",
+      "new": "qoya ber",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "sálǵana",
+      "new": "sál ǵana",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "alalmay",
+      "new": "ala almay",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "qalalmaytuǵınday",
+      "new": "qala almaytuǵınday",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "onsegiz",
+      "new": "on segiz",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "ontoǵızına",
+      "new": "on toǵızına",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "tazajazıw",
+      "new": "taza jazıw",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "ekewǵanamız",
+      "new": "ekew ǵanamız",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "semizbeken",
+      "new": "semiz be eken",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "óltirippe",
+      "new": "óltirip pe",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "kese etek ten",
+      "new": "keseetekten",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "berseńo",
+      "new": "berseń o",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "a pa",
+      "new": "apa",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "azdanda",
+      "new": "azdan da",
+      "kind": "word_boundary",
+      "reason": "Adabiy matn uchun so‘zlar chegarasi ajratildi yoki birlashtirildi; talaffuz mosligi tekshirilmagan."
+    },
+    {
+      "old": "húwlegep jel",
+      "new": "húwlegen jel",
+      "kind": "contextual_typo",
+      "reason": "Jel so‘ziga bog‘langan sifatdosh sifatida adabiylashtirildi; audiosiz taxmin."
+    },
+    {
+      "old": "saplastırılıp bolınıwına",
+      "new": "saplastırılıp bolıwına",
+      "kind": "contextual_typo",
+      "reason": "Iboradagi ortiqcha bo‘g‘in adabiy variantda qisqartirildi; audiodagi shakl o‘zgarmaydi."
+    }
+  ]
+}

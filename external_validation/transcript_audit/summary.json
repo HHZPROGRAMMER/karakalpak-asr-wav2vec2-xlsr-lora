@@ -1,0 +1,47 @@
+{
+  "dataset": "external_validation/Benchmark/karakalpak_hf_dataset",
+  "grain": "one audio file / reference transcript",
+  "records": 2613,
+  "filtered_records": 2548,
+  "excluded_records": 65,
+  "unique_words_original": 8041,
+  "changed_reference_rows": 60,
+  "word_or_boundary_replacements": 61,
+  "changed_rows_by_manifest": {
+    "benchmark_all_samples.csv": 60,
+    "benchmark_filtered_samples.csv": 59,
+    "benchmark_excluded_high_peak_samples.csv": 1
+  },
+  "rules_with_matches": 58,
+  "manual_review_rows": 83,
+  "manual_review_flags": 86,
+  "audio_files_checked": 2613,
+  "missing_audio": 0,
+  "audio_read_errors": 0,
+  "technical_issues": [],
+  "identical_audio_file_groups": 0,
+  "identical_reference_groups": 1,
+  "audio_files_modified": 0,
+  "audio_transcripts_listened_and_verified": 0,
+  "all_linguistic_errors_corrected": false,
+  "current_manifests_match_corrections": true,
+  "original_sha256": {
+    "benchmark_all_samples.csv": "1d328ee221f77010ea0f0db63e817c54aef19c0b190e2a7a06a6452f8fbedba1",
+    "benchmark_filtered_samples.csv": "5d85bf91149a2cd830c393240e75426cfa5927a7ad2cf4340c40c19e36be0037",
+    "benchmark_excluded_high_peak_samples.csv": "40726e673a1a04243f3374f07d48184faf6431cdc42be8a07777654a5096ce47"
+  },
+  "current_sha256": {
+    "benchmark_all_samples.csv": "eec33d357acf8a3e44f8f53ed96bc603ffc780e6f741f2389b7b7247870660d9",
+    "benchmark_filtered_samples.csv": "e76023d8d4fce14b913483b8999e7350109a92f101b293a63699af8587f960f6",
+    "benchmark_excluded_high_peak_samples.csv": "0c80471aa5bb305bbdf1b1daea6fff50e8b46891ae60e128f89e9a9bebaa8678"
+  },
+  "historical_predictions_unchanged_sha256": {
+    "benchmark_previous_greedy_predictions.csv": "04b2ba0760e402db03b3a7d3519779ea1717ba82cba405c530c01fe62e3e158c",
+    "benchmark_previous_kenlm_predictions.csv": "1d3fedd773fc708c448919ba1d7a5a241d4c1895269e9c686be6d6fb6bb86527"
+  },
+  "rules_sha256": "d1169b1218d02e3125b443899981b030593d2f2304ed71190070edbcbdceeea5",
+  "sources": {
+    "2016_alphabet": "https://joqargikenes.uz/qr/documents/40/",
+    "imla_dictionary_2017": "https://n.ziyouz.com/library/category/177-qaraqalpaq-tili-sozlikleri?download=12724:qaraqalpaq-tilinin-imla-sozligi-m-dawletov-2017"
+  }
+}

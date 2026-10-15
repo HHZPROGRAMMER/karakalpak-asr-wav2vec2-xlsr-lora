@@ -1,0 +1,170 @@
+{
+  "abıroyı": {
+    "suggestion": "abırayı",
+    "reason": "Lug‘aviy shakl ehtimoli; talaffuzni tekshirish kerak."
+  },
+  "awmastıratuǵın": {
+    "suggestion": "almastıratuǵın",
+    "reason": "Talaffuz yoki yozuv varianti bo‘lishi mumkin."
+  },
+  "baydalımızǵa": {
+    "suggestion": "paydamızǵa",
+    "reason": "So‘zning o‘zi noaniq; audiosiz almashtirilmadi."
+  },
+  "bermaǵan": {
+    "suggestion": "",
+    "reason": "Vaqt ma’nosidagi sheva shakli bo‘lishi mumkin; saqlansin."
+  },
+  "berseńo": {
+    "suggestion": "berseń o",
+    "reason": "Yuklama chegarasini audiodan aniqlash kerak."
+  },
+  "giyneshil": {
+    "suggestion": "",
+    "reason": "Noodatiy so‘z; audio va asl manbani tekshirish kerak."
+  },
+  "húwlegep": {
+    "suggestion": "húwlegen",
+    "reason": "Gap tugallanmagan bo‘lishi mumkin; audio tekshiruvi kerak."
+  },
+  "janbısań": {
+    "suggestion": "janbısań",
+    "reason": "Sheva shakli bo‘lishi mumkin; normallashtirishga dalil yo‘q."
+  },
+  "júyi": {
+    "suggestion": "",
+    "reason": "So‘z ma’nosi va talaffuzini tekshirish kerak."
+  },
+  "júyremnen": {
+    "suggestion": "júyremnen",
+    "reason": "Ibora/sheva bo‘lishi mumkin; o‘zgartirilmadi."
+  },
+  "margiyasın": {
+    "suggestion": "",
+    "reason": "Noodatiy so‘z; audio tekshiruvi kerak."
+  },
+  "miliysalar": {
+    "suggestion": "miliciyalar",
+    "reason": "Og‘zaki talaffuz bo‘lishi mumkin; audiosiz adabiylashtirilmadi."
+  },
+  "bolınıwına": {
+    "suggestion": "",
+    "reason": "Iboradagi so‘z noaniq; bo‘lıwına deb taxmin bilan o‘zgartirilmadi."
+  },
+  "óltirippe": {
+    "suggestion": "óltirip pe",
+    "reason": "Sheva va yuklama chegarasini eshitish kerak."
+  },
+  "sheńberdiń": {
+    "suggestion": "",
+    "reason": "Quduq tasviridagi atamani audio/manbadan tekshirish kerak."
+  },
+  "namálim": {
+    "suggestion": "",
+    "reason": "Imlo/talaffuz variantini lug‘at va audiodan tekshirish kerak."
+  },
+  "ǵóne": {
+    "suggestion": "góne",
+    "reason": "Shevadagi tovush varianti bo‘lishi mumkin."
+  },
+  "qızapa": {
+    "suggestion": "qız apa",
+    "reason": "Murojaat yoki qarindoshlik atamasining chegarasini tekshirish kerak."
+  },
+  "qızapam": {
+    "suggestion": "qız apam",
+    "reason": "Audio asosida so‘z chegarasini tekshirish kerak."
+  },
+  "qızapamnıń": {
+    "suggestion": "qız apamnıń",
+    "reason": "Audio asosida so‘z chegarasini tekshirish kerak."
+  },
+  "ekewmiz": {
+    "suggestion": "ekewimiz",
+    "reason": "Og‘zaki qisqarish bo‘lishi mumkin."
+  },
+  "ánekeey": {
+    "suggestion": "ánekey",
+    "reason": "Cho‘zib aytilgan tovush bo‘lishi mumkin."
+  },
+  "baratıranday": {
+    "suggestion": "baratırǵanday",
+    "reason": "Harf tushishi yoki talaffuz varianti; audio kerak."
+  },
+  "semizbeken": {
+    "suggestion": "semiz be eken",
+    "reason": "Og‘zaki qisqarish va so‘z chegarasi noaniq."
+  },
+  "ekewǵanamız": {
+    "suggestion": "ekew ǵanamız",
+    "reason": "Yuklama bilan shaxs qo‘shimchasini tekshirish kerak."
+  },
+  "isleytuǵınbedi": {
+    "suggestion": "",
+    "reason": "Qisqargan yordamchi fe’l/yuklama; audio bilan tekshirish kerak."
+  },
+  "gúrsińdi": {
+    "suggestion": "gúrsińdi",
+    "reason": "Shaxs qo‘shimchasi to‘g‘ri bo‘lishi mumkin; o‘zgartirilmasin."
+  },
+  "kese etek ten": {
+    "suggestion": "keseetekten",
+    "reason": "Joy nomi va qo‘shimcha chegarasi noaniq."
+  },
+  "a pa": {
+    "suggestion": "apa",
+    "reason": "Segment chegarasi yoki cho‘zilgan murojaat bo‘lishi mumkin."
+  },
+  "azdanda": {
+    "suggestion": "azdan da",
+    "reason": "Gapdagi vazifasini eshitib aniqlash kerak."
+  },
+  "barmediń": {
+    "suggestion": "bar ma ediń",
+    "reason": "Qisqargan ibora; audio kerak."
+  },
+  "kórermizdaǵı": {
+    "suggestion": "",
+    "reason": "Yuklama va so‘z chegarasini aniqlash kerak."
+  },
+  "lekin": {
+    "suggestion": "lekin",
+    "reason": "Audioda shu so‘z aytilgan bo‘lsa, biraq bilan tarjima qilinmaydi."
+  },
+  "yaki": {
+    "suggestion": "yaki",
+    "reason": "Audioda aytilgan o‘zlashma so‘z bo‘lishi mumkin; tarjima qilinmaydi."
+  },
+  "yaqshı": {
+    "suggestion": "jaqsı",
+    "reason": "Sheva yoki boshqa til ta’siri; audio bo‘yicha tekshirish kerak."
+  },
+  "yaǵá": {
+    "suggestion": "",
+    "reason": "Undov yoki sheva; avtomatik adabiylashtirilmaydi."
+  },
+  "alagór": {
+    "suggestion": "ala gór",
+    "reason": "Og‘zaki birikma va so‘z chegarasi tekshirilsin."
+  },
+  "alaǵoydım": {
+    "suggestion": "ala ǵoydım",
+    "reason": "Yordamchi so‘z bilan birikma; audio/manba tekshirilsin."
+  },
+  "bolaǵoyadı": {
+    "suggestion": "bola ǵoyadı",
+    "reason": "Yordamchi so‘z bilan birikma; audio/manba tekshirilsin."
+  },
+  "qoyaber": {
+    "suggestion": "qoya ber",
+    "reason": "Og‘zaki qisqarish; audio bo‘yicha tekshirilsin."
+  },
+  "óleǵoymaq": {
+    "suggestion": "óle ǵoymaq",
+    "reason": "Yuklama bilan birikma; audio/manba tekshirilsin."
+  },
+  "kestenin": {
+    "suggestion": "",
+    "reason": "Astan-kesten birikmasida n obyekt qo‘shimchasi bo‘lishi mumkin; genitiv ń bilan almashtirilmadi."
+  }
+}
